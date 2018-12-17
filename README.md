@@ -7,6 +7,6 @@ _Readme en cours de rédaction_
 
 # Fusionner les modifications
 * Commencez par ouvrir une _Issue_ décrivant le problème (second onglet)
-* [Créez un pull request](https://help.github.com/articles/creating-a-pull-request-from-a-fork/) correspondant
+* [Créez un pull request](https://help.github.com/articles/creating-a-pull-request-from-a-fork/) et le lier à l'issue
 
 
