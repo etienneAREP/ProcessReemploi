@@ -3,7 +3,7 @@ _Readme en cours de rédaction_
 * [Dernière version](AREP v0.0\BPMN_Curage.svg)
 
 # Éditer le diagramme (online)
-* [Forker](https://help.github.com/articles/fork-a-repo/) le répertoire. Cela crée votre copie ![image_fork](img\fork.png)
+* [Forker](https://help.github.com/articles/fork-a-repo/) le répertoire. Cela crée votre copie ![image_fork](https://github.com/etienneburdet/ProcessReemploi/blob/master/img/fork.png)
 * Aller sur [draw.io](https://www.draw.io/?mode=github)
 * File>Open from>Github… ![img_open](img\openDrawIO.png)
 * Tous les changements sont sauvegardés sur votre copie en ligne.
