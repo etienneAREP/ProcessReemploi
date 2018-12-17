@@ -1,6 +1,6 @@
 _Readme en cours de rédaction_
 # Ouvrir en lecture
-* [Dernière version](AREP v0.0\BPMN_Curage.svg)
+* [Dernière version](https://github.com/etienneburdet/ProcessReemploi/blob/master/AREP%20v0.0/BPMN_Curage.svg)
 
 # Éditer le diagramme (online)
 * [Forker](https://help.github.com/articles/fork-a-repo/) le répertoire. Cela crée votre copie en ligne. ![image_fork](https://github.com/etienneburdet/ProcessReemploi/blob/master/img/fork.png)
